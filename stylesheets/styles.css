@@ -1,0 +1,19 @@
+/* the following select all html tags selected and applies the styling specified below. */
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-family: Helvetica, Arial;
+  color: darkblue;
+}
+
+p {
+  border-bottom: 1px solid black;
+}
+
+/* selectors that begin with a dot (.) are classes */
+.colorred {
+  color: red;
+}
+

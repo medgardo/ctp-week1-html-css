@@ -1,0 +1,12 @@
+body {
+  background-color: lightgray;
+}
+
+h1 {
+  font-family: Helvetica, Arial;
+  color: darkblue;
+}
+
+p {
+  border-bottom: 1px solid black;
+}
